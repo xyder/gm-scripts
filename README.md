@@ -13,7 +13,7 @@ Redirects any steam page (from _**store.steampowered.com**_ and _**steamcommunit
 
 ## How to use
 
-Click the name of a file in the Scripts directory and then click the Raw button. If you have Greasemonkey installed, a pop-up to install the script will appear.
+Click the name of a file in the Scripts directory and then click the **Raw** button. If you have Greasemonkey installed, a pop-up to install the script will appear.
 
 <br>
 _**Note:**_ *All scripts are provided as-is. Anything is permitted. Install at your own risk.*
